@@ -3,7 +3,7 @@ package demos;
 import com.itextpdf.text.*;
 import com.itextpdf.text.pdf.PdfWriter;
 import dao.ProductDAO;
-import measurements.MyTimer;
+import myLibrary.MyTimer;
 import model.ProductDB;
 import model.ProductCSV;
 

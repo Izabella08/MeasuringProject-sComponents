@@ -1,4 +1,4 @@
-package measurements;
+package myLibrary;
 
 public class StackEntry {
     private long time;

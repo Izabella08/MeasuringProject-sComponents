@@ -1,6 +1,6 @@
 package model;
 
-import measurements.RecursionCounter;
+import myLibrary.RecursionCounter;
 
 public class RecursiveBubbleSort {
 

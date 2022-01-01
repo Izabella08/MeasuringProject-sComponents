@@ -1,4 +1,4 @@
-package measurements;
+package myLibrary;
 
 import java.util.HashMap;
 

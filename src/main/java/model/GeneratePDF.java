@@ -2,7 +2,6 @@ package model;
 
 import com.itextpdf.text.*;
 import com.itextpdf.text.pdf.PdfWriter;
-import measurements.MyTimer;
 
 import java.io.FileNotFoundException;
 import java.io.FileOutputStream;

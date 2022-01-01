@@ -1,6 +1,6 @@
 package demos;
 
-import measurements.RecursionCounter;
+import myLibrary.RecursionCounter;
 
 public class TestsForRecursion {
 

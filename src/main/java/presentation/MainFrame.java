@@ -3,8 +3,8 @@ package presentation;
 import com.itextpdf.text.DocumentException;
 import dao.ProductDAO;
 import dbConnection.ConnectionFactory;
-import measurements.MyTimer;
-import measurements.RecursionCounter;
+import myLibrary.MyTimer;
+import myLibrary.RecursionCounter;
 import model.*;
 import org.jfree.chart.ChartFactory;
 import org.jfree.chart.ChartPanel;
@@ -110,7 +110,7 @@ public class MainFrame extends JFrame{
         nrExec2.setVisible(true);
         this.add(nrExec2);
 
-        JLabel generateResults1 = new JLabel("View some results:");
+        JLabel generateResults1 = new JLabel("View results:");
         generateResults1.setBounds(100, 450,200, 20);
         generateResults1.setForeground(new Color(200,200,200));
         generateResults1.setBackground(new Color(255,157,203));
@@ -118,7 +118,7 @@ public class MainFrame extends JFrame{
         generateResults1.setVisible(true);
         this.add(generateResults1);
 
-        JLabel generateResults2 = new JLabel("View some results:");
+        JLabel generateResults2 = new JLabel("View results:");
         generateResults2.setBounds(900, 450,200, 20);
         generateResults2.setForeground(new Color(200,200,200));
         generateResults2.setBackground(new Color(255,157,203));

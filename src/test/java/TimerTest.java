@@ -1,4 +1,4 @@
-import measurements.MyTimer;
+import myLibrary.MyTimer;
 import org.junit.Test;
 
 public class TimerTest {
