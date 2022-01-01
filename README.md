@@ -1,4 +1,4 @@
-In cadrul acestui program s-a realizat o biblioteca de functii care sa permita masurarea timpului de executie si a numarului de executii pentru diferite componente utilizate intr-un program Java.
+In cadrul acestui program s-a realizat un pachet de clase care contin functii care sa permita masurarea timpului de executie si a numarului de executii pentru diferite componente utilizate intr-un program Java.
 
 Componentele pentru care s-a calculat timpul de executie sunt urmatoarele:
 	- Citirea dintr-o baza de date;
