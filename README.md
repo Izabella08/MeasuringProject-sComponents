@@ -1,6 +1,6 @@
-Within this project, a package of classes has been created that contains functions that allow the measurement of the execution time and the number of executions for different components used in a Java program.
+This project was developed for the Structure of Computer Systems course and within this project a package of classes has been created that contains functions that allow the measurement of the execution time and the number of executions for different components used in a Java program.
 
-The components for which the execution time was calculated are the following:
+Components for which the execution time was calculated are the following:
 - Reading from a database;
 - Writing in a database;
 - Generating a .txt file;
