@@ -1,15 +1,15 @@
-In cadrul acestui program s-a realizat un pachet de clase care contin functii care sa permita masurarea timpului de executie si a numarului de executii pentru diferite componente utilizate intr-un program Java.
+Within this project, a package of classes has been created that contains functions that allow the measurement of the execution time and the number of executions for different components used in a Java program.
 
-Componentele pentru care s-a calculat timpul de executie sunt urmatoarele:
-	- Citirea dintr-o baza de date;
-	- Scrierea intr-o baza de date;
-	- Generarea unui fisier .txt;
-	- Generarea unui fisier .pdf;
-	- Citirea dintr-un fisier .csv;
+The components for which the execution time was calculated are the following:
+- Reading from a database;
+- Writing in a database;
+- Generating a .txt file;
+- Generating a .pdf file;
+- Reading from a .csv file.
 
-Componente pentru care s-a calculat timpul de executie dar si numarul de executii (repetitii), sunt urmatoarele:
- 	- Seria Fibonacci;
-	- Sortarea unui array folosit metoda recursiva de sortare Selection Sort;
-	- Sortarea unui array folosit metoda recursiva de sortare Bubble Sort;
-	- Sortarea unui array folosit metoda recursiva de sortare Insertion Sort;
-	- Sortarea unui array folosit metoda recursiva de sortare Quick Sort;
+Components for which the execution time was calculated, as well as the number of executions, are the following:
+- Fibonacci series;
+- Sorting an array using the recursive Selection Sort method;
+- Sorting an array using the recursive Bubble Sort method;
+- Sorting an array using the recursive Insertion Sort method;
+- Sorting an array using the recursive Quick Sort sorting method.
