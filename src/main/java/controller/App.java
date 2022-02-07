@@ -10,6 +10,6 @@ public class App {
         //MyFrame10 myFrame = new MyFrame10();
 
         MainFrame mainFrame = new MainFrame();
-    }
 
+    }
 }

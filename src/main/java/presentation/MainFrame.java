@@ -274,7 +274,6 @@ public class MainFrame extends JFrame{
                 } catch (SQLException throwables) {
                     throwables.printStackTrace();
                 }
-
                 dataset.setValue(MyTimer.timeUp(), "Execution time", "WRITE DB");
 
                 //Find out the execution time for generation a .txt file
